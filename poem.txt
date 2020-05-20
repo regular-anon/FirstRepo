@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the Unicorn
 
 Red
 Orange
@@ -10,4 +10,7 @@ Violet
 
 Random color that is not present in the rainbow
 
+Unicorn
+
 These are the colors of the rainbow
+and the unicorn
