@@ -7,4 +7,7 @@ Green
 Blue
 Indigo
 Violet
+
+Random color that is not present in the rainbow
+
 These are the colors of the rainbow
